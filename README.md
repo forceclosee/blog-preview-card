@@ -32,8 +32,8 @@ Users should be able to:
 
 <!-- edit links -->
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/forceclosee/blog-preview-card)
+- Live Site URL: [live site URL](https://forceclose-blog-preview-card.vercel.app/)
 
 ## My process
 
